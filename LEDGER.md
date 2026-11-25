@@ -44,5 +44,7 @@ v2 is CLEARLY stronger, judged against the kit's judge brief (criteria in order)
 
 ## Submission
 
-- Not submitted yet (parent handles commit/push/bundle/check/submit).
-- No claim code (none yet).
+- Submission: 01a210c6-d001-7442-9751-843d2b76626c
+- Commit: 86cb7929ebf12ec07431d42257a860c545c0b41b
+- Stage: checked
+- Claim code: AF-T18RV-TKPTR-PZPQF-E0FGS
